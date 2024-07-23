@@ -1,5 +1,5 @@
 # PokemonDB
-Stores name, type and image URL of Pokemons from PokeAPI and displas it to the user.
+Stores name, type and image URL of Pokemons from PokeAPI and displays it to the user.
 
 - [Requirements](#requirements)
 - [Project Setup](#project-setup)
